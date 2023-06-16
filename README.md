@@ -6,5 +6,5 @@ This course is an introduction to modern web development with JavaScript. The ma
 
 Other topics include debugging applications, container technology, configuration, managing runtime environments, and databases.
 
-![fullstack open](https://github.com/Court534/CS-Full-Stack-Open/assets/85391216/433dbdac-6d43-4f36-aa21-3e35bc1e2f36)
+![fullstack open](https://github.com/Court534/CS-Full-Stack-Open/assets/85391216/433dbdac-6d43-4f36-aa21-3e35bc1e2f36 height=50 width=50)
 
